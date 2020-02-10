@@ -1,5 +1,5 @@
-# unity-scripts-exercise  
-my exercise  
+# unity-scripts-practice
+my practice  
 unity scripts：  
 我的工具箱内容：  
 1.GetTransform  获得所选对象(可多选）的坐标  
